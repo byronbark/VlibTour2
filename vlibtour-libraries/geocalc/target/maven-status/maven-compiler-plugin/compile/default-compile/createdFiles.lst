@@ -1,0 +1,9 @@
+com/grum/geocalc/BoundingArea.class
+com/grum/geocalc/Point.class
+com/grum/geocalc/DegreeCoordinate.class
+com/grum/geocalc/DMSCoordinate.class
+com/grum/geocalc/Coordinate.class
+com/grum/geocalc/RadianCoordinate.class
+com/grum/geocalc/EarthCalc.class
+com/grum/geocalc/EarthCalc$Vincenty.class
+com/grum/geocalc/GPSCoordinate.class

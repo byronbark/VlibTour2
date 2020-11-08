@@ -1,0 +1,8 @@
+rendu.txt
+
+Author: Rafael Blanco
+
+I worked inside de folders entity, bean and api. Using the command 'mvn clean install' it compiles the files inside the folder and execute test for the server implemented in 'vlibtour-tour-management-bean'. 
+I implemented all the use cases in figure 2 of the microproject description, I implemented also some tests to this functions. 
+I include also GPSPosition.class into the dependencies of this module, making this class 'serializable'. 
+I implemented also a client using the file csc-mw-project-master/vlibtour-client/vlibtour-admin-client-tour-management and adding some '.jar' into the file csc-mw-project-master/Scripts/admin_client_tour_management.sh to properly run it.
